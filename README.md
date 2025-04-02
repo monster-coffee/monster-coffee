@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yashdeep
+- 👋 Hi, 
 - 👀 I’m interested in Application and Web Development
 - 🌱 I’m currently learning OpenGL and 3D Rendering
 - 💞️ I’m looking to collaborate on app development
